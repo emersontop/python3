@@ -12,3 +12,4 @@ print('O valor da soma entre {} e {} é:{}'.format(n1,n2,nsoma))
 #Podemos usar o .isnumeric() pque retorna se a variável é numérica e podemos usar o .isalpha() para saber ser é alfabeto
 
 print(nsoma.isnume)
+#aqui temos diverso tipos de is para classificar
