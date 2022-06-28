@@ -3,3 +3,4 @@
 #- Média entre 5.0 e 6.9: RECUPERAÇÃO
 #- Média 7.0 ou superior: APROVADO
 
+#pulei para a aula de laços de repetição
