@@ -6,3 +6,6 @@
 #Para testar se algo esta em uma lista coloque if 'algo' in lista
 #Usar o comando. sort() para ordenar a lista
 #Para saber o tamanho da lista usar o comando len()
+#Quando você coloca listaA=listab você cria uma ligação entre as listas e se mudar uma muda a outra
+#Para criar uma copia tem que fazse s=b[:]
+
